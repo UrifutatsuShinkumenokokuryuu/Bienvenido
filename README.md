@@ -1,4 +1,4 @@
 # Bienvenido
 Página de inicio
 
-[![diccionario](https://jisho.org)]
+[![diccionario](https://i.ytimg.com/vi/K2NThmMnYIQ/maxresdefault.jpg)](https://jisho.org)
